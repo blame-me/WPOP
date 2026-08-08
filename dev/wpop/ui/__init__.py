@@ -1,0 +1,1 @@
+"""PySide6 desktop UI (thin layer over the GUI-free wpop core)."""

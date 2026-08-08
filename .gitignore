@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# scan artifacts
+report.json
+report.html
+
+# wpop runtime data (written next to the app, kept out of git)
+*.log
+
+# PyInstaller build output
+dist/
+build/
+*.spec
